@@ -1,6 +1,6 @@
 # Computational-Experiments
 
-# Job Shop Scheduling Data and Code
+## Job Shop Scheduling Data
 
 This repository contains the dataset used for the study on job shop scheduling problems using genetic algorithms and Tabu Search.
 
